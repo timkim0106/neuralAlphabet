@@ -9,15 +9,8 @@ From this project, I practiced
 - Training and evaluating the model
 - Using data augmentation techniques to improve model performance
 
-The model architecture consists of 
-  - Two convolutional layers
-  - Max pooling
-  - Batch normalization
-  - Dropout
-  - Fully connected layers
-
-- Data augmentation for robust training
-- Learning rate scheduling for optimized training
+The model architecture consists of two convolutional layers, max pooling, batch normalization, and dropout.
+The layers are fully connected, and I included data augmentation for robust training as well as learning rate scheduling for optimized training
 
 The training parameters I used were:
 - Epochs: 25
